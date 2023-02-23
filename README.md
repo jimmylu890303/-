@@ -1,8 +1,10 @@
-# File 
+# Python Selenium + 2captcha (通過Recaptcha測試) + Tkinter(UI)
+
+## File 
 pr.py為主專案
 solveReCaptcha會import進去pr.pr
 
-# Input format
+## Input format
 車站為輸入車站代碼
 EX:
 起點車站 7000	
